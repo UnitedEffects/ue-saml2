@@ -1,6 +1,6 @@
 {
-  "name": "ue-saml2-js",
-  "version": "4.0.1",
+  "name": "ue.saml2-js",
+  "version": "4.0.2",
   "description": "Updated fork of SAML 2.0 node helpers. Maintained by United Effects LLC.",
   "author": "Clever",
   "contributors": [{

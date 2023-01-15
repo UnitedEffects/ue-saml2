@@ -2,6 +2,16 @@
 
 This is a fork of the Clever SAML-2.js library. All updates will be pull requested to the original repository. If at some point the maintainers of the Clever library wish to bring these projects to parity, this fork may be archived.
 
+## Usage of Fork
+
+Install with [npm](https://www.npmjs.com/).
+
+```bash
+  npm install ue.saml2-js --save
+```
+
+All references to requirement of 'saml2-js' in the examples below should be replaced with 'ue.saml2-js'. Original documentation and example maintained for reference only.
+
 ## Original Library Maintenance Notice
 
 This library is currently in maintenance mode. Until further notice, the primary directive is to handle bug reports and security issues with this library.
