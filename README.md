@@ -1,12 +1,14 @@
-# Maintenance Notice
+# United Effects Fork
+
+This is a fork of the Clever SAML-2.js library. All updates will be pull requested to the original repository. If at some point the maintainers of the Clever library wish to bring these projects to parity, this fork may be archived.
+
+## Original Library Maintenance Notice
 
 This library is currently in maintenance mode. Until further notice, the primary directive is to handle bug reports and security issues with this library.
 
 Any library alternatives and suggestions can be filed under an issue.
 
 # SAML2-js
-
-[![CircleCI](https://circleci.com/gh/Clever/saml2/tree/master.svg?style=svg)](https://circleci.com/gh/Clever/saml2/tree/master)
 
 `saml2-js` is a node module that abstracts away the complexities of the SAML protocol behind an easy to use interface. It achieves this this by helping you implement a service provider for the SAML protocol. It currently does not implement the features to act as an identity provider.
 

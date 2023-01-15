@@ -1,8 +1,13 @@
 {
-  "name": "saml2-js",
+  "name": "ue-saml2-js",
   "version": "4.0.1",
-  "description": "SAML 2.0 node helpers",
+  "description": "Updated fork of SAML 2.0 node helpers. Maintained by United Effects LLC.",
   "author": "Clever",
+  "contributors": [{
+    "name": "United Effects LLC",
+    "email": "help@unitedeffects.com",
+    "url": "https://unitedeffects.com"
+  }],
   "license": "Apache-2.0",
   "main": "index.js",
   "engines": {
@@ -16,14 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Clever/saml2.git"
+    "url": "https://github.com/UnitedEffects/ue-saml2"
   },
   "keywords": [
     "saml",
     "node"
   ],
   "bugs": {
-    "url": "https://github.com/Clever/saml2/issues"
+    "url": "https://github.com/UnitedEffects/ue-saml2/issues"
   },
   "devDependencies": {
     "coffeescript": "^1.12.7",
